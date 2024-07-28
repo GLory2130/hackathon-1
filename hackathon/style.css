@@ -1,0 +1,43 @@
+*{
+    border: 0px;
+    margin: 0px;
+    background: url("C:/Users/Gee/Desktop/hackathon/bgimg.jpg");
+
+}
+
+a{
+    text-decoration: none;
+}
+.mine{
+ font-family: Arial;
+ font-size: medium;
+}
+.mine img{
+    float: left;
+    height: 500px;
+    width: 400px;
+    padding-left: 0px;
+}
+.mine h3,p,h2{
+    text-align: justify;
+    color:aqua;
+    padding-top: 50px;
+}
+.mine h2,ul,li{
+    color: aqua;
+}
+.Projects{
+    color: aqua;
+    padding: 0 0 0 25px;
+
+}
+.Projects img{
+    height: 250px;
+    width: 350px;
+    border-radius: 25%;
+    border: 2px aqua solid;
+}
+
+ img a:hover{
+    background-color: aqua;
+}
